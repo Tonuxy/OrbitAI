@@ -1,0 +1,29 @@
+# Credits & Disclaimers
+
+This section provides proper credit to the developers, companies, and projects that have contributed to or inspired parts of this project.
+
+## Anthropic - Local AI Models
+
+The AI models used or supported by this project were developed and created by Anthropic.
+
+I am **not affiliated with, associated with, sponsored by, endorsed by, or officially connected to Anthropic** in any way. All trademarks, model names, and other intellectual property related to Anthropic belong to their respective owners.
+
+Anthropic is fully responsible for the development and ownership of its models. This project is an independent project and should not be considered an official Anthropic product.
+
+## Flere - MaverickAI
+
+Special credit goes to **Flere**, the developer of **MaverickAI**.
+
+I have received **full permission from Flere** to take inspiration from MaverickAI and to use or adapt portions of their code within this project.
+
+Some features, concepts, design ideas, or code may therefore be inspired by or based on work originally created for MaverickAI. Permission was granted directly by the original developer.
+
+A huge thank you to Flere for allowing their work to contribute to the development of this project.
+
+## General Disclaimer
+
+All third-party names, trademarks, models, projects, and software mentioned in this project remain the property of their respective owners.
+
+Unless explicitly stated otherwise, the inclusion or use of third-party software, models, code, or names does **not** imply any official partnership, sponsorship, endorsement, or affiliation.
+
+This project is independently developed and maintained.
